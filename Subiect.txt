@@ -1,49 +1,7 @@
 Obiectiv general
-Realizarea unei aplica?ii pe una dintre temele specificate, cu back-end RESTful care acceseaza date stocate într-o baza rela?ionala pe baza unui API de persistenta ?i date expuse de un serviciu extern ?i frontend SPA în React realizat cu un framework bazat pe componente.
+Realizarea unei aplicatii pe una dintre temele specificate, cu back-end RESTful care acceseaza date stocate Ã®ntr-o baza relationala pe baza unui API de persistenta si date expuse de un serviciu extern si frontend SPA Ã®n React realizat cu un framework bazat pe componente.
 
 Descriere
-Implementarea unui serviciu REST ?i a unei interfe?e în React pentru urmatoarele entita?i: - Article - Reference
+Implementarea unui serviciu REST si a unei interfete Ã®n React pentru urmatoarele entitati: - Article - Reference
 
-Article are mai mul?i Reference. Article are un id (întreg, cheie primara), un titlu (un string de cel pu?in 5 caractere), un rezumat (un string de cel pu?in 10 caractere), o data/ora (date, dupa momentul crearii). Reference are un id (întreg, cheie primara), un titlu (un string de cel pu?in 5 caractere), o data (date, dupa momentul publicarii) ?i o lista de autori (un string cu autorii separa?i de virgula).
-
-Componente ?i punctaje
-Serviciu REST
-Definirea primei entita?i - 0.3
-Definire celei de-a doua entita?i - 0.3
-Definirea rela?iei dintre cele doua entita?i - 0.3
-Opera?ie GET pentru prima entitate - 0.3
-Opera?ie POST pentru prima entitate - 0.3
-Opera?ie PUT pentru prima entitate - 0.3
-Opera?ie DELETE pentru prima entitate - 0.3
-Opera?ie GET pentru a doua entitate ca subresursa - 0.3
-Opera?ie POST pentru a doua entitate ca subresursa - 0.3
-Opera?ie PUT pentru a doua entitate ca subresursa - 0.3
-Opera?ie DELETE pentru a doua entitate ca subresursa - 0.3
-Filtrare dupa doua câmpuri pentru prima entitate - 0.3
-Sortare dupa un câmp pentru prima entitate - 0.3
-Paginare pentru prima entitate - 0.3
-Import - 0.2
-Export - 0.2
-Interfa?a SPA în React
-Rutare pe baza id-ului de entitate copil - 0.3
-Create pentru prima entitate - 0.3
-Read pentru prima entitate - 0.3
-Update pentru prima entitate - 0.3
-Delete pentru prima entitate - 0.3
-Create pentru a doua entitate (master-detail) - 0.3
-Read pentru a doua entitate (master-detail) - 0.3
-Update pentru a doua entitate (master-detail) - 0.3
-Delete pentru a doua entitate (master-detail) - 0.3
-Filtrare dupa dupa doua câmpuri pentru prima entitate - 0.3
-Sortare dupa un câmp pentru prima entitate - 0.3
-Paginare pentru prima entitate - 0.3
-Interfa?a import - 0.2
-Interfa?a export - 0.2
-Layout cu grid/flex - 0.4
-Punctaj din oficiu - 10%
-Note
-Daca aplica?ia nu merge pe heroku se depuncteaza 10%
-Daca nu se încarca videoclipul, lucrarea nu va fi corectata
-Videoclipul trebuie înregistrat cu facecam
-În videclip prezenta?i aplica?ia func?ionând, nu codul
-Dupa ce a?i terminat, încarca?i componentele raspunsului aici
+Article are mai multi Reference. Article are un id (Ã®ntreg, cheie primara), un titlu (un string de cel putin 5 caractere), un rezumat (un string de cel putin 10 caractere), o data/ora (date, dupa momentul crearii). Reference are un id (Ã®ntreg, cheie primara), un titlu (un string de cel pu?in 5 caractere), o data (date, dupa momentul publicarii) si o lista de autori (un string cu autorii separati de virgula).
