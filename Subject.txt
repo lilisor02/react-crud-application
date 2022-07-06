@@ -1,7 +1,0 @@
-Obiectiv general
-Realizarea unei aplicatii pe una dintre temele specificate, cu back-end RESTful care acceseaza date stocate într-o baza relationala pe baza unui API de persistenta si date expuse de un serviciu extern si frontend SPA în React realizat cu un framework bazat pe componente.
-
-Descriere
-Implementarea unui serviciu REST si a unei interfete în React pentru urmatoarele entitati: - Article - Reference
-
-Article are mai multi Reference. Article are un id (întreg, cheie primara), un titlu (un string de cel putin 5 caractere), un rezumat (un string de cel putin 10 caractere), o data/ora (date, dupa momentul crearii). Reference are un id (întreg, cheie primara), un titlu (un string de cel pu?in 5 caractere), o data (date, dupa momentul publicarii) si o lista de autori (un string cu autorii separati de virgula).
