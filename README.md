@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Application for creating articles and references, which can be visualized, modified and erased, filtered and sorted based on the date of the article.
+Application using React, Node.js and MySQL, for creating articles and references, which can be visualized, modified and erased, filtered and sorted based on the date of the article.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/72099239/186222646-ab18d767-b165-4341-bb21-5285a3412702.gif)
 
