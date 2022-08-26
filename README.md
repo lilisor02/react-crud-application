@@ -31,13 +31,13 @@ Create a database and change the details of /dbConfig.js.
 To start the backend, run:
 
 ```bash
-cd examen/backend
+cd backend
 npm start
 ```
 
 To start the frontend, run:
 
 ```bash
-cd ../frontend
+cd frontend
 npm start
 ```
